@@ -1,0 +1,19 @@
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio / VS Code folders
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.suo.tmp
+*.sln.docstates
+
+# Database Backups
+*.bak
+DailyDatabaseBackup/
+
